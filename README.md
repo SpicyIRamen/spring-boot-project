@@ -24,5 +24,16 @@ Create & Update
 	"password": "password",
 }
 ```
+### JAVA MESSAGE
+- Create: 
+	- /publishmessage
+	- 
 
+### JSON-Bodies for JAVA MESSAGE
+
+```
+{
+	"message": "your message text"
+}
+```
 // Ola & Sean
